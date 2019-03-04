@@ -1058,9 +1058,9 @@ extension Connection {
 
 public struct Row {
 
-    let columnNames: [String: Int]
+    public let columnNames: [String: Int]
 
-    fileprivate let values: [Binding?]
+    public let values: [Binding?]
 
     internal init(_ columnNames: [String: Int], _ values: [Binding?]) {
         self.columnNames = columnNames
