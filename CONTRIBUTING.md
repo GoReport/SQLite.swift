@@ -19,7 +19,7 @@ addresses everything. If it doesn’t, continue the conversation there.
 If your searches return empty, see the [bug](#bugs) or [feature
 request](#feature-requests) guidelines below.
 
-[Ask on Stack Overflow]: http://stackoverflow.com/questions/tagged/sqlite.swift
+[Ask on Stack Overflow]: https://stackoverflow.com/questions/tagged/sqlite.swift
 [Search]: https://github.com/stephencelis/SQLite.swift/search?type=Issues
 
 
@@ -74,7 +74,7 @@ Made it through everything above and still having trouble? Sorry!
   - Even better: link to a sample project exhibiting the issue.
   - Include the SQLite.swift commit or branch experiencing the issue.
   - Include devices and operating systems affected.
-  - Include build information: the Xcode and OS X versions affected.
+  - Include build information: the Xcode and macOS versions affected.
 
 [installation instructions]: Documentation/Index.md#installation
 [See Documentation]: Documentation/Index.md#sqliteswift-documentation
